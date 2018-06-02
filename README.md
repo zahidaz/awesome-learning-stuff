@@ -7,8 +7,11 @@ In this Money, Money!!! world, Here we have compiled a list of free and awesome 
 Resources
 ---------
 
-###Youtube Channels for developers 
+### Youtube Channels - web developers 
 - [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
 - [DevTips](https://www.youtube.com/user/DevTipsForDesigners)
 - [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
 - [Google Developers](https://www.youtube.com/user/GoogleDevelopers)
+
+### Youtube Channels - linux administrators
+- [tutoriaLinux](https://www.youtube.com/channel/UCvA_wgsX6eFAOXI8Rbg_WiQ)
