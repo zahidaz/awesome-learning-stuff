@@ -1,6 +1,6 @@
 # Awesome free Learning stuff [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-In this Money, Money!!! world, Here we have compiled a list of free and awesome resources I found really informative. we have tried hard to list real and useful stuff here. 
+In this Money, Money!!! world, Here we have compiled a list of free and awesome resources we found really informative. We have tried hard to list real and useful stuff here. 
 
 # EVEREY ONE IS WELCOME TO CONTRIBUTE
 
@@ -15,3 +15,9 @@ Resources
 
 ### Youtube Channels - linux administrators
 - [tutoriaLinux](https://www.youtube.com/channel/UCvA_wgsX6eFAOXI8Rbg_WiQ)
+
+
+### Websites - web developers
+- [CSSReference.io](https://cssreference.io/)
+- [CSS Reference by tympanus.net](https://tympanus.net/codrops/css_reference/)
+- [HTMLReference.io](https://htmlreference.io/)
