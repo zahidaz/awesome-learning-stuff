@@ -14,6 +14,7 @@ Resources
 - [Google Developers](https://www.youtube.com/user/GoogleDevelopers)
 ### Sites
 - [Learn the web: by thomas Bradley](https://learn-the-web.algonquindesign.ca)
+- [svg for the web](https://svgontheweb.com/)
 ### Youtube Channels - linux administrators
 - [tutoriaLinux](https://www.youtube.com/channel/UCvA_wgsX6eFAOXI8Rbg_WiQ)
 
